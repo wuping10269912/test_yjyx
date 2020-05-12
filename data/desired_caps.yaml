@@ -1,0 +1,11 @@
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+app: F:\study\student_debug.apk
+appPackage: edu.yjyx.student
+appActivity: .module.main.ui.AccessActivity
+automationName: Uiautomator2
+unicodeKeyboard: True
+resetKeyboard: True
+ip: localhost
+port: 4723

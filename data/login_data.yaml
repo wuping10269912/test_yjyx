@@ -1,0 +1,10 @@
+test_login:
+  test_login001:
+    username: "17865120390"
+    password: "12345678"
+  test_login002:
+    username: "17865120390"
+    password: " "
+  test_login003:
+    username: "17"
+    password: "12345678"
